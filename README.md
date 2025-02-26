@@ -33,10 +33,7 @@ redis-cluster
 │       ├── appendonly.aof
 │       ├── dump.rdb
 │       └── nodes.conf
-├── docker-compose.yaml
-├── nodes-1.conf
-├── nodes-2.conf
-└── nodes-3.conf
+└── docker-compose.yaml
 ```
 
 ### Deskripsi File dan Folder
